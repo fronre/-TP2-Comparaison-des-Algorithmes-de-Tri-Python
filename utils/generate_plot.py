@@ -1,15 +1,10 @@
 def generate_plot(results, filename='results.png'):
-    """Generate a line plot (size vs time) for each algorithm and save to filename.
 
-    results: iterable of dicts with keys: 'algorithm', 'size', 'time'
-    Returns the filename written.
-    """
     algos = {}
     for r in results:
         algo = r['algorithm']
         algos.setdefault(algo, []).append((int(r['size']), float(r['time'])))
 
-    # Import matplotlib only when plotting is requested so the module is optional.
     import matplotlib.pyplot as plt
 
     plt.figure(figsize=(8, 5))

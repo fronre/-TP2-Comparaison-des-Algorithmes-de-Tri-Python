@@ -1,8 +1,5 @@
 def tri_echange(lst):
-    """Exchange sort implemented as an in-place quicksort wrapper that returns a new list.
 
-    The name 'tri_echange' is interpreted here as an exchange-based sort; quicksort is used for reasonable performance.
-    """
     arr = list(lst)
 
     def _quicksort(a, lo, hi):
