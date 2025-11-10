@@ -1,0 +1,423 @@
+Sorting Algorithms Experimental Results
+==================================================
+
+Algorithm: Selection
+Data Type: A
+Size: 100
+Comparisons: 4950
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Selection
+Data Type: A
+Size: 300
+Comparisons: 44850
+Displacements: 0
+Time: 0.001999s
+------------------------------
+Algorithm: Selection
+Data Type: A
+Size: 700
+Comparisons: 244650
+Displacements: 0
+Time: 0.012000s
+------------------------------
+Algorithm: Selection
+Data Type: A
+Size: 1000
+Comparisons: 499500
+Displacements: 0
+Time: 0.024001s
+------------------------------
+Algorithm: Selection
+Data Type: A
+Size: 5000
+Comparisons: 12497500
+Displacements: 0
+Time: 0.602173s
+------------------------------
+Algorithm: Selection
+Data Type: C
+Size: 100
+Comparisons: 4950
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Selection
+Data Type: C
+Size: 300
+Comparisons: 44850
+Displacements: 0
+Time: 0.002002s
+------------------------------
+Algorithm: Selection
+Data Type: C
+Size: 700
+Comparisons: 244650
+Displacements: 0
+Time: 0.012004s
+------------------------------
+Algorithm: Selection
+Data Type: C
+Size: 1000
+Comparisons: 499500
+Displacements: 0
+Time: 0.023324s
+------------------------------
+Algorithm: Selection
+Data Type: C
+Size: 5000
+Comparisons: 12497500
+Displacements: 0
+Time: 0.599619s
+------------------------------
+Algorithm: Selection
+Data Type: D
+Size: 100
+Comparisons: 4950
+Displacements: 50
+Time: 0.000000s
+------------------------------
+Algorithm: Selection
+Data Type: D
+Size: 300
+Comparisons: 44850
+Displacements: 150
+Time: 0.002000s
+------------------------------
+Algorithm: Selection
+Data Type: D
+Size: 700
+Comparisons: 244650
+Displacements: 350
+Time: 0.011633s
+------------------------------
+Algorithm: Selection
+Data Type: D
+Size: 1000
+Comparisons: 499500
+Displacements: 500
+Time: 0.025004s
+------------------------------
+Algorithm: Selection
+Data Type: D
+Size: 5000
+Comparisons: 12497500
+Displacements: 2500
+Time: 0.628030s
+------------------------------
+Algorithm: Bubble
+Data Type: A
+Size: 100
+Comparisons: 99
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Bubble
+Data Type: A
+Size: 300
+Comparisons: 299
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Bubble
+Data Type: A
+Size: 700
+Comparisons: 699
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Bubble
+Data Type: A
+Size: 1000
+Comparisons: 999
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Bubble
+Data Type: A
+Size: 5000
+Comparisons: 4999
+Displacements: 0
+Time: 0.000997s
+------------------------------
+Algorithm: Bubble
+Data Type: C
+Size: 100
+Comparisons: 99
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Bubble
+Data Type: C
+Size: 300
+Comparisons: 299
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Bubble
+Data Type: C
+Size: 700
+Comparisons: 699
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Bubble
+Data Type: C
+Size: 1000
+Comparisons: 999
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Bubble
+Data Type: C
+Size: 5000
+Comparisons: 4999
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Bubble
+Data Type: D
+Size: 100
+Comparisons: 4950
+Displacements: 4950
+Time: 0.000000s
+------------------------------
+Algorithm: Bubble
+Data Type: D
+Size: 300
+Comparisons: 44850
+Displacements: 44850
+Time: 0.004002s
+------------------------------
+Algorithm: Bubble
+Data Type: D
+Size: 700
+Comparisons: 244650
+Displacements: 244650
+Time: 0.029512s
+------------------------------
+Algorithm: Bubble
+Data Type: D
+Size: 1000
+Comparisons: 499500
+Displacements: 499500
+Time: 0.060552s
+------------------------------
+Algorithm: Bubble
+Data Type: D
+Size: 5000
+Comparisons: 12497500
+Displacements: 12497500
+Time: 1.696104s
+------------------------------
+Algorithm: Insertion Exchange
+Data Type: A
+Size: 100
+Comparisons: 99
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Insertion Exchange
+Data Type: A
+Size: 300
+Comparisons: 299
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Insertion Exchange
+Data Type: A
+Size: 700
+Comparisons: 699
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Insertion Exchange
+Data Type: A
+Size: 1000
+Comparisons: 999
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Insertion Exchange
+Data Type: A
+Size: 5000
+Comparisons: 4999
+Displacements: 0
+Time: 0.000999s
+------------------------------
+Algorithm: Insertion Exchange
+Data Type: C
+Size: 100
+Comparisons: 99
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Insertion Exchange
+Data Type: C
+Size: 300
+Comparisons: 299
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Insertion Exchange
+Data Type: C
+Size: 700
+Comparisons: 699
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Insertion Exchange
+Data Type: C
+Size: 1000
+Comparisons: 999
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Insertion Exchange
+Data Type: C
+Size: 5000
+Comparisons: 4999
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Insertion Exchange
+Data Type: D
+Size: 100
+Comparisons: 4950
+Displacements: 4950
+Time: 0.001001s
+------------------------------
+Algorithm: Insertion Exchange
+Data Type: D
+Size: 300
+Comparisons: 44850
+Displacements: 44850
+Time: 0.004999s
+------------------------------
+Algorithm: Insertion Exchange
+Data Type: D
+Size: 700
+Comparisons: 244650
+Displacements: 244650
+Time: 0.031516s
+------------------------------
+Algorithm: Insertion Exchange
+Data Type: D
+Size: 1000
+Comparisons: 499500
+Displacements: 499500
+Time: 0.067000s
+------------------------------
+Algorithm: Insertion Exchange
+Data Type: D
+Size: 5000
+Comparisons: 12497500
+Displacements: 12497500
+Time: 1.760744s
+------------------------------
+Algorithm: Insertion Displacement
+Data Type: A
+Size: 100
+Comparisons: 99
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Insertion Displacement
+Data Type: A
+Size: 300
+Comparisons: 299
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Insertion Displacement
+Data Type: A
+Size: 700
+Comparisons: 699
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Insertion Displacement
+Data Type: A
+Size: 1000
+Comparisons: 999
+Displacements: 0
+Time: 0.001000s
+------------------------------
+Algorithm: Insertion Displacement
+Data Type: A
+Size: 5000
+Comparisons: 4999
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Insertion Displacement
+Data Type: C
+Size: 100
+Comparisons: 99
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Insertion Displacement
+Data Type: C
+Size: 300
+Comparisons: 299
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Insertion Displacement
+Data Type: C
+Size: 700
+Comparisons: 699
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Insertion Displacement
+Data Type: C
+Size: 1000
+Comparisons: 999
+Displacements: 0
+Time: 0.000000s
+------------------------------
+Algorithm: Insertion Displacement
+Data Type: C
+Size: 5000
+Comparisons: 4999
+Displacements: 0
+Time: 0.001000s
+------------------------------
+Algorithm: Insertion Displacement
+Data Type: D
+Size: 100
+Comparisons: 4950
+Displacements: 5049
+Time: 0.000000s
+------------------------------
+Algorithm: Insertion Displacement
+Data Type: D
+Size: 300
+Comparisons: 44850
+Displacements: 45149
+Time: 0.005000s
+------------------------------
+Algorithm: Insertion Displacement
+Data Type: D
+Size: 700
+Comparisons: 244650
+Displacements: 245349
+Time: 0.028002s
+------------------------------
+Algorithm: Insertion Displacement
+Data Type: D
+Size: 1000
+Comparisons: 499500
+Displacements: 500499
+Time: 0.056048s
+------------------------------
+Algorithm: Insertion Displacement
+Data Type: D
+Size: 5000
+Comparisons: 12497500
+Displacements: 12502499
+Time: 1.224495s
+------------------------------
